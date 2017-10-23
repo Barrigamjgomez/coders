@@ -1,0 +1,97 @@
+
+
+ .galeriaDeFotos {
+
+ position: inline-block
+ }
+
+
+ .imagen1 {
+ 	display: inline-block;
+    position: relative;
+
+
+}
+ .imagen2 {
+ 	display: inline-block;
+    position: relative;
+ }
+
+ .imagen3 {
+ 	display: inline-block;
+ 	position: relative;
+
+}
+ .imagen4 {
+ 	display: inline-block;
+ 	position: relative;
+
+}
+ .imagen5 {
+ 	display: inline-block;
+ 	position: relative;
+ 
+}
+ .imagen6 {
+ 	display: inline-block;
+ 	position: relative;
+ 
+}
+.gatito1{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    font-size:30px;
+    color: white;
+    text-align: 
+    
+ }
+ .gatito2{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    font-size:30px;
+    color: black;
+    text-align: 
+    
+ }
+ .gatito3{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    font-size:30px;
+    color: white;
+    text-align: 
+    
+ }
+ .gatito4{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    font-size:30px;
+    color: white;
+    text-align: 
+    
+ }
+ .gatito5{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    font-size:30px;
+    color: white;
+    text-align: 
+    
+ }
+ .gatito6{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    font-size:30px;
+    color: white;
+    text-align: 
+    
+ }
+ h1 {
+
+ 	font-size:80px;
+ }
